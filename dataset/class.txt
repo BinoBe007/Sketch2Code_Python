@@ -1,0 +1,14 @@
+Image
+Label
+Check Box
+Radio Button
+Link
+Select
+Textarea
+Carousel
+Table
+Paragraph
+Heading
+Pagination
+Button
+Textbox
