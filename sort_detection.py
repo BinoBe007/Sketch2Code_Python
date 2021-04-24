@@ -1,3 +1,7 @@
+#Jul 5, 2020 
+__author__ = 'Biniam Behailu - biniambehailu3@gmail.com'
+
+
 import json
 from operator import itemgetter
 from layout_algorithm import *
