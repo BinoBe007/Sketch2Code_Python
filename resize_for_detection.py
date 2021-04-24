@@ -1,3 +1,6 @@
+#Jul 5, 2020 
+__author__ = 'Biniam Behailu - biniambehailu3@gmail.com'
+
 import numpy as np
 import PIL
 from PIL import Image
