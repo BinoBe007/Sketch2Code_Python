@@ -1,6 +1,6 @@
 
 #Jul 5, 2020 
-__author__ = 'Biniam Behailu - biniambehailu3@gmail.com'
+__author__ = 'Biniam Behailu Adefris - biniambehailu3@gmail.com'
 
 import cv2
 import json
